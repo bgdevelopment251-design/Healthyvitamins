@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <title>Heart & Wellness Supplements | All Black Children Enterprise</title>
   <meta name="description" content="Premium heart and wellness supplements for circulation, cognitive support, and overall vitality — curated by Brandon Gordon of All Black Children Enterprise." />
-  <link rel="canonical" href="https://example.com/heart-wellness-supplements" />
+  <link rel="canonical" href="******/" />
 
   <!-- Resource hints -->
   <link rel="preconnect" href="https://res.cloudinary.com" crossorigin>
@@ -21,7 +21,7 @@
   <meta property="og:title" content="Heart & Wellness Supplements | All Black Children Enterprise" />
   <meta property="og:description" content="Premium heart and wellness supplements for circulation, cognitive support, and overall vitality." />
   <meta property="og:image" content="https://res.cloudinary.com/dnv1pvhab/image/upload/f_auto,q_auto,w_1200/v1768877683/541508_HumanN_SuperBeets_Heart_Powder_Front_ywwonz.jpg" />
-  <meta property="og:url" content="https://example.com/heart-wellness-supplements" />
+  <meta property="og:url" content="******/" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="theme-color" content="#c8102e" />
 
@@ -391,13 +391,12 @@
       {
         "@type": "Organization",
         "name": "All Black Children Enterprise",
-        "url": "https://example.com/",
-        "logo": "https://example.com/path-to-logo.png"
+        "url": "******/"
       },
       {
         "@type":"WebPage",
         "name":"Heart & Wellness Supplements",
-        "url":"https://example.com/heart-wellness-supplements",
+        "url":"******/",
         "description":"Premium heart and wellness supplements curated by Brandon Gordon."
       },
       {
